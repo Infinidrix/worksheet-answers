@@ -10,17 +10,22 @@ displays the following:
 The year he/she gets to 18
 Age of the customer with month resolution (E.g: 18 Year and 2
 Months) [11:17]
+
 2. Write a Python function which accepts the user's first name and Gender
 and print the name with Prefix only if the user does not provide prefixes.
 Use Dictionary to get the prefix for specific user. (Eg. (Abebe, Male)->
 Mr. Abebe) [18:22]
+
 3. Write a python function that returns the sum of three numbers if
 and only if any two of the numbers are equal. [24:27]
+
 4. Write a python function that accepts a list of numbers and returns
 two lists; one with numbers less than 50 and the later with number
 50 or above. [29:37]
+
 5. Write a python function that returns histogram of integers and
 characters in a string after accepting list of numbers/characters.[39:42]
+
 6. Write a python function to convert a true color image of yours to
 multidimensional list.[44:47]
 7. Write a Python program to compute the greatest common divisor (GCD)
@@ -102,7 +107,7 @@ your are taking now and display the grade for each.[291:297]
 40. Write a Fraction class to represent rational numbers like 1/2 and
 -3/8. Fractional numbers should be stored in reduced form like 6/12
 → ½ [298:332]
-dependent on third party modules. Hence, knowledge about basic image processing and game modules is required.  Hint: import OpenCV module
+Dependent on third party modules. Hence, knowledge about basic image processing and game modules is required.  Hint: import OpenCV module
 	1. Write a python program that displays the mirror of the given object by using only list manipulation techniques. [image.py 13:22]
 	2. Write a python program that constructs Chess board with black and white background. [334:347]
 	3. Write a python program that detects a moving object in a finite video frame.
